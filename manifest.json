@@ -1,0 +1,42 @@
+
+{
+  "name": "Acryl Nagels",
+  "short_name": "AcrylNagels",
+  "start_url": "./?utm_source=web_app_manifest",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+   "background_color": "#fdfdfd",
+  "theme_color": "#ffff",
+  
+  "icons": [{
+    "src": "./Imagenes/48x48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "./Imagenes/72x72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "./Imagenes/96x96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "./Imagenes/144x144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "./Imagenes/168x168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "./Imagenes/192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }],
+  "related_applications": [{
+    "platform": "web"
+  }, {
+    "platform": "play",
+    "url": "https://play.google.com/store/apps/details?id=com.google.samples.apps.iosched"
+  }]
+}
